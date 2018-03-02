@@ -1,0 +1,15 @@
+.table-actions {
+  margin: 2em 0;
+}
+.mdc-list-item {
+  &__secondary-text {
+      color: rgba(0, 0, 0, 0.5);
+
+      background-image: url('../../img/calendar-range.png');
+      background-position: left center;
+      background-repeat: no-repeat;
+      padding-left: 30px;
+      height: 24px;
+  }
+}
+
